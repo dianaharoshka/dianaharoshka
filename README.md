@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Diana, and I'm a fullstack web developer specializing in e-commerce solutions.
+# 👋 Hello! My name is Diana, and I'm a fullstack web developer student specializing in e-commerce solutions.
 
 Welcome to my GitHub profile! I'm currently learning web development and working on improving my skills in both **Frontend** and **Backend** technologies. I'm passionate about coding and enjoy building projects that solve real-world problems.
 
