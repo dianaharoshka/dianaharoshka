@@ -13,7 +13,7 @@ I'm studying **Web Development for E-commerce** at **Medieinstitutet**. I am lea
 
   
 ## 📚 What I'm Learning
-Currently, I'm working on building websites with database integration using **PHP** and **MySQL**.
+Currently, I'm working on building websites with database integration using **PHP**, **NodeJS** and **MySQL**.
 
 ## 🌱 My Future Goals
 I’m looking forward to learning more about **backend development**, **API integrations**, and **e-commerce solutions**. My goal is to get hands-on experience by working on real projects and improving my skills further.
